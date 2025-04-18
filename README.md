@@ -1,68 +1,106 @@
-# 👋 Hi there! I'm a Java Full Stack Developer & Machine Learning Enthusiast
+<p align="center">
+  <img src="Banner.png" alt="Abhishek - Java Full Stack Developer" style="max-width: 100%;">
+</p>
 
-I’m a Java Full Stack Developer with 3+ years of experience building scalable backend systems and REST APIs using Spring Boot, Kafka, and cloud platforms like Azure and AWS. I specialize in designing microservices and serverless applications, and I’m passionate about crafting reliable, performant systems with clean architecture.
+<h1 align="center">Hey there! I'm Abhishek 👋</h1>
 
-🎓 Recently graduated with a Master’s in Applied Science (Computer Engineering) from **Memorial University of Newfoundland**, where I deepened my skills in software architecture, machine learning, and cloud-native development.
+<p align="center">
+🚀 Java Full Stack Developer | ☁️ Cloud Engineer | 🧠 AI & ML Enthusiast | 🎓 M.A.Sc @ Memorial University, 2025
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+🌟 I'm a passionate **Java Full Stack Developer** with **3+ years of experience** building scalable backend systems and solving real-world challenges in healthcare and loyalty domains.
+
+🎓 Recently completed my **Master’s in Applied Science in Computer Engineering** from **Memorial University of Newfoundland** (2025).
+
+🛠️ I love working with microservices, cloud infrastructure, and also dabble in ML/AI, especially for real-time gesture recognition and computer vision!
+
+---
+
+## 🏗️ My 2025 Projects
+
+### 📊 Expense Tracker Web App – _Jan 2025 – Apr 2025_
+
+A full-stack platform to manage finances, visualize budgets, and analyze spending patterns.
+
+**Tech Stack**: Java 21, Spring Boot 3.2, PostgreSQL, Docker, EC2, NextJS, Tailwind CSS  
+📌 _Secure APIs with JWT | Dockerized Backend | Realtime Budget Tracking_
+
+---
+
+### 🤖 Real-Time Gesture Recognition iOS App – _May 2024 – Dec 2024_
+
+Gesture recognition using **MediaPipe**, **Conv2D CNNs**, and secure video processing for edge devices.
+
+**Tech Stack**: TensorFlow, Python, iOS, MediaPipe, scikit-learn  
+📌 _Real-time AI | 40-class model | Secure ML video workflow_
+
+---
+
+## 💼 Experience
+
+### 🧩 **Engineer 2 @ Apexon** _(Jan 2023 – Aug 2023)_
+
+### 🧩 **Engineer 1 @ Apexon** _(Aug 2021 – Jan 2023)_
+
+-   Built scalable APIs with Spring Boot and Kafka
+-   Integrated multiple vendor systems (Magento, Loyaltics, Akhil Systems)
+-   Developed microservices with MongoDB, MySQL, and Azure Functions
+-   Architected asynchronous systems using Kafka
+-   Delivered solutions in **healthcare and loyalty platforms**
+
+🛠️ _Skills_: Java 8/11, Azure, AWS, MongoDB, Kafka, REST APIs, Serverless
+
+---
+
+### ⚙️ **Site Reliability Engineer @ Crest Data Systems** _(Jul 2020 – Aug 2021)_
+
+-   Automated Splunk CloudOps using Jenkins, Python, and Shell
+-   Built CI/CD pipelines and deployed apps to multi-site clusters
+-   Debugged and optimized distributed Splunk environments
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**: Java (8 & 11), Python, Shell Scripting  
-**Frameworks & Libraries**: Spring Boot, JPA, Spring MVC, Apache Kafka  
-**Databases**: MySQL, PostgreSQL, MongoDB, Redis  
-**Cloud Platforms**: Azure (Functions, Blob, AKS), AWS (EC2, S3)  
-**DevOps & Tools**: Jenkins, Git, Docker, Elasticsearch, Log4j  
-**Architecture**: Microservices, Serverless, Asynchronous systems  
-**Web Technologies**: REST APIs, React, Next.js, Tailwind CSS
-
----
-
-## 🚀 Featured Projects
-
-### 📊 Expense Tracker Web App
-
-**Jan 2025 – Apr 2025**  
-A cloud-deployed financial management system that tracks, categorizes, and analyzes transactions.
-
-**Highlights:**
-
--   Spring Boot 3.2 backend with Java 21 & PostgreSQL
--   JWT authentication, Swagger API docs, and Dockerized deployment
--   Live on Amazon EC2 with full budget tracking, analytics & real-time updates  
-    **Tech**: Spring Boot, PostgreSQL, Docker, EC2, NextJS, Tailwind CSS  
-    📌 [Project Details](#) _(Add link to repo)_
-
----
-
-### 🤖 iOS App for Real-Time Gesture Recognition
-
-**May 2024 – Dec 2024**  
-Developed a real-time hand gesture recognition model for an iOS app using MediaPipe and TensorFlow.
-
-**Highlights:**
-
--   Built Conv2D-based CNN recognizing 40 gesture classes (ASL + Hagrid)
--   Real-time video processing & privacy-compliant secure uploads
--   Use cases in healthcare, HCI, and sign language learning  
-    **Tech**: MediaPipe, TensorFlow, scikit-learn, iOS (Swift)  
-    📌 [Project Details](#) _(Add link to repo)_
+| Domain          | Tools & Technologies                                |
+| --------------- | --------------------------------------------------- |
+| Languages       | `Java (8/11/21)` `Python` `Shell`                   |
+| Backend         | `Spring Boot` `Spring MVC` `JPA` `Apache Kafka`     |
+| Frontend        | `React` `NextJS` `Tailwind CSS`                     |
+| Databases       | `MySQL` `MongoDB` `PostgreSQL` `Redis`              |
+| Cloud Platforms | `Azure (Blob, Functions, AKS)` `AWS (EC2, S3)`      |
+| DevOps & Tools  | `Jenkins` `Docker` `Git` `Log4j` `ElasticSearch`    |
+| Architecture    | `Microservices` `Serverless` `Asynchronous Systems` |
+| AI & ML         | `TensorFlow` `MediaPipe` `scikit-learn`             |
 
 ---
 
 ## 📈 GitHub Stats
 
-![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek08vyas&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek08vyas&layout=compact&theme=tokyonight" width="48%">
+</p>
 
 ---
 
-## 🧩 Fun Facts
+## 🌐 Connect With Me
 
--   💡 I love solving real-world problems through automation and clean code.
--   🛠 I’ve worked as an SRE using Splunk, Jenkins, and shell/Python scripting to maintain CI/CD and cloud infra.
--   🌍 I’m always exploring new tools and ways to build smarter, faster systems.
+-   📬 [LinkedIn](https://www.linkedin.com/in/abhishekvvyas)
+-   🌐 [Portfolio Website](https://your-portfolio-link.com)
 
 ---
 
-📫 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/your-link/) | [Portfolio](https://your-portfolio-link.com)
+## ✨ Fun Facts in 2025
+
+-   🧠 I blend backend tech with AI/ML to solve real-world problems.
+-   🚴‍♂️ I enjoy long bike rides and coding marathons.
+-   📚 I love exploring new libraries, frameworks, and startup ideas!
+
+---
+
+> _"Clean code + scalable architecture = great user experience."_ – Abhishek
