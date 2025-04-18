@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishekvvyas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white"></a>
+  <!-- <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white"></a> -->
   <img src="https://komarev.com/ghpvc/?username=abhishek08vyas&style=flat&color=brightgreen" alt="Profile views">
 </p>
 
@@ -34,12 +34,76 @@ public class AboutMe {
     String[] roles = {"Java Full Stack Developer", "Cloud Engineer", "ML Enthusiast"};
     String location = "Canada";
     String education = "M.A.Sc Computer Engineering @ Memorial University";
-    
+
     String[] techStack() {
         return new String[] {"Java", "Spring Boot", "Microservices", "AWS", "Azure", "React"};
     }
 }
 ```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,kotlin,ts" /> <!-- Programming Languages -->
+  <br>
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,tailwind,kafka,maven" /> <!-- Web Technologies -->
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins,git,kubernetes" /> <!-- DevOps & Cloud -->
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" /> <!-- Databases -->
+</p>
+
+### 🔠 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</p>
+
+### 🌐 Web Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+</p>
+
+### 🧠 Artificial Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white">
+</p>
+
+### 🗂️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+</p>
 
 ---
 
@@ -97,39 +161,6 @@ public class AboutMe {
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-</p>
-
-<details>
-<summary>View detailed tech stack</summary>
-
-| Domain          | Tools & Technologies                                |
-| --------------- | --------------------------------------------------- |
-| Languages       | `Java (8/11/21)` `Python` `Shell`                   |
-| Backend         | `Spring Boot` `Spring MVC` `JPA` `Apache Kafka`     |
-| Frontend        | `React` `NextJS` `Tailwind CSS`                     |
-| Databases       | `MySQL` `MongoDB` `PostgreSQL` `Redis`              |
-| Cloud Platforms | `Azure (Blob, Functions, AKS)` `AWS (EC2, S3)`      |
-| DevOps & Tools  | `Jenkins` `Docker` `Git` `Log4j` `ElasticSearch`    |
-| Architecture    | `Microservices` `Serverless` `Asynchronous Systems` |
-| AI & ML         | `TensorFlow` `MediaPipe` `scikit-learn`             |
-
-</details>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -151,9 +182,9 @@ public class AboutMe {
   <a href="https://www.linkedin.com/in/abhishekvvyas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <!-- <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
-  </a>
+  </a> -->
   <!-- Add your email or other social media badges here -->
 </p>
 
@@ -161,13 +192,9 @@ public class AboutMe {
 
 ## ✨ Fun Facts in 2025
 
-- 🧠 I blend backend tech with AI/ML to solve real-world problems.
-- 🚴‍♂️ I enjoy long bike rides and coding marathons.
-- 📚 I love exploring new libraries, frameworks, and startup ideas!
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
-</p>
+-   🧠 I blend backend tech with AI/ML to solve real-world problems.
+-   🚴‍♂️ I enjoy long bike rides and coding marathons.
+-   📚 I love exploring new libraries, frameworks, and startup ideas!
 
 ---
 
